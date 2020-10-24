@@ -1,0 +1,29 @@
+Game Idea
+	A game where you dodge a great number of obsticles in your path until you reach the end.
+	
+Scenario and Character Descriptions
+	The world will move up for a certain amount of time. If possible, multiple levels will be available.
+	Objects and hazards will constantly spawn in and try to eliminate you.
+	
+	Characters can be anything.
+	
+Characters' Actions and goals
+	The character's goal is to reach the end of the level.
+	
+Game Win/Lose Condition
+	You win if you can acheive the goal.
+	You lose if you touch a hazard or an object.
+	
+Progression of Levels
+	As you move closer and closer to your objective, more hazard spawn in.
+	
+Sources of Inspiration
+	Dodgeball
+	Temple Run
+	Geometry Dash
+	The Impossible Game
+	
+Skills/Interests
+	If you can code, congratulations!
+	You are qualified.
+	
